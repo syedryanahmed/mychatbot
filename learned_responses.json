@@ -1,0 +1,7 @@
+{
+  "Your name is Ryan": {
+    "keywords": ["name", "my name", "what is my name"],
+    "single_response": true,
+    "required_words": ["Ryan"]
+  }
+}
